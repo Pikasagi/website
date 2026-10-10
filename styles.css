@@ -716,6 +716,10 @@ p {
   );
 }
 
+.project-toggle .soon-badge {
+  margin-top: 0.7rem;
+}
+
 .soon-badge {
   display: inline-block;
   margin: 0.75rem 0 0;
